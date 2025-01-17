@@ -1,10 +1,11 @@
 import React from 'react';
-import Home from './apps/home.jsx';
+
+import Form from './app/form.jsx';
 
 function App() {
   return (
     <div className="App">
-      <Home />
+      <Form />
     </div>
     
     
